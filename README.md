@@ -1,6 +1,4 @@
-[![Build Status](https://travis-ci.org/bwaldvogel/liblinear-java.png?branch=master)](https://travis-ci.org/bwaldvogel/liblinear-java)
-
-This is the Java version of LIBLINEAR.
+This is the Java version of LIBLINEAR with added support for dense features.
 
 The project site of the original `C++` version is located at
        http://www.csie.ntu.edu.tw/~cjlin/liblinear/
